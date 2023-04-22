@@ -1,0 +1,23 @@
+{
+  "name": "ajs-packet-use",
+  "version": "1.0.0",
+  "description": "ajs-packet-use",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ISeliukov/ajs-packet-use.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ISeliukov/ajs-packet-use/issues"
+  },
+  "homepage": "https://github.com/ISeliukov/ajs-packet-use#readme",
+  "dependencies": {
+    "@iseliukov/ajs": "^1.0.0"
+  }
+}
