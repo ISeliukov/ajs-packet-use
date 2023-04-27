@@ -1,3 +1,3 @@
-const ajs = require('@iseliukov/ajs@1.0.0');
+const ajs = require('@iseliukov/ajs');
 
 console.log(ajs.info());
